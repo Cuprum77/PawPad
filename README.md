@@ -32,6 +32,10 @@ Bean (3) | SWCLK | TCK | SCK | - | SCL
 Bean (4) | NRST | TMS | RST | RST | RST
 Big Bean (5) | GND | GND | GND | GND | GND
 
+<div>
+<p align="center"><img height="512px" src="https://raw.githubusercontent.com/Cuprum77/PawPad/main/Resources/paw.png"></p>
+</div>
+
 ## Showcase
 Did you add this to your PCBs? Let us know by opening an [Issue](https://github.com/Cuprum77/PawPad/issues/new)!
 
@@ -44,6 +48,7 @@ Example of the [Programming Jig](<../main/Programming Jig>) in action on a test 
 * Alternative designs with different numbers of pins
 * Unified pinout standard
 * OSHW certification
+* Debugger design
 
 ### Acknowlegments
 This has been inspired by the [original maker of the footprint](https://github.com/the6p4c/pawpad), go check them out.
