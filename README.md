@@ -1,5 +1,5 @@
-# PawPrint
-## PawPrint programming header
+# PawPad
+## PawPad programming header
 This is a project that aims to spice up the world of boring test jigs and programming headers with a completely new, full stack system for adding programming headers to your boards.
 <div>
 <p align="center"><img height="512px" src="https://raw.githubusercontent.com/Cuprum77/PawPad/main/Resources/programming-jig-pogo.png"></p>
