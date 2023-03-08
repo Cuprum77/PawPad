@@ -24,12 +24,21 @@ There are many benefits in the above shape compared to regular arrangements:
 ## Pinout
 The pinout is standardized as outlined below:
 
-// TODO
+Pin | SWD | JTAG | SPI / ICSP | UART | I2C
+:---: | :---: | :---: | :---: | :---: | :---:
+Bean (1) | SWO | TDO | MISO | RX | -
+Bean (2) | SWDIO | TDI | MOSI | TX | SDA
+Bean (3) | SWCLK | TCK | SCK | - | SCL
+Bean (4) | NRST | TMS | RST | RST | RST
+Big Bean (5) | GND | GND | GND | GND | GND
 
 ## Showcase
 Did you add this to your PCBs? Let us know by opening an [Issue](https://github.com/Cuprum77/PawPad/issues/new)!
 
-// Images go here
+Example of the [Programming Jig](<../main/Programming Jig>) in action on a test PCB:
+<div>
+<p align="center"><img height="512px" src="https://raw.githubusercontent.com/Cuprum77/PawPad/main/Resources/jig-irl.png"></p>
+</div>
 
 ## Future plans
 * Alternative designs with different numbers of pins
