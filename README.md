@@ -20,6 +20,7 @@ There are many benefits in the above shape compared to regular arrangements:
 <div>
 <p align="center"><img height="512px" src="https://raw.githubusercontent.com/Cuprum77/PawPad/main/Resources/programming-jig.png"></p>
 </div>
+NOTE: this jig is not complete! It has not yet been tested for actual programming and may not be ideal!
 
 ## Pinout
 The pinout is standardized as outlined below:
