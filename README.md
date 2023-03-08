@@ -16,7 +16,7 @@ There are many benefits in the above shape compared to regular arrangements:
 ## Files
 [PawPad](../main/PawPad) - contains the KiCAD footprint.
 
-[Programming Jig](<../main/Programming Jig>) - contains a programming jig meant to be screwed onto a piece of 10x10 aluminum extrusion/makerbeam.
+[Programming Jig](<../main/Programming Jig>) - contains a programming jig meant to be screwed onto a piece of 10x10 aluminium extrusion/makerbeam.
 <div>
 <p align="center"><img height="512px" src="https://raw.githubusercontent.com/Cuprum77/PawPad/main/Resources/programming-jig.png"></p>
 </div>
